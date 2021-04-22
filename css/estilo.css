@@ -235,14 +235,7 @@ li.slide-current{
 	background: rgba(0,0,0,0.6);
 }
 
- * Contendor del Slider
- ----------------------------------------*/
-.slider-container {
-	margin: 0 auto;
-	width: 720px;
-	height: 405px;
-	
-}
+
 
 .slider-wrapper {
 	width: 720px;
